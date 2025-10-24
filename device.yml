@@ -4,7 +4,7 @@
 
 device: AudioSwitch
 whoAmI: 1248
-firmwareVersion: "1.2"
+firmwareVersion: "1.3"
 hardwareTargets: "1.0"
 registers:
   ControlMode:
